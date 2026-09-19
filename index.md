@@ -1,6 +1,6 @@
 # W.A.I.T. Bibliography
 
-Chicago style. Last updated September 15, 2026.
+Chicago style. Last updated September 19, 2026.
 
 Austin, J. L. *How to Do Things with Words*. Edited by J. O. Urmson. Oxford: Clarendon Press, 1962.
 
@@ -12,11 +12,15 @@ Chaplin, Ralph. "Solidarity Forever." *Solidarity* (Cleveland), January 9, 1915.
 
 CommunityRule. "Guides." Accessed September 15, 2026. https://communityrule.info/guides/.
 
+Edwards, Ron. *Sex & Sorcery*. Supplement 3 for *Sorcerer*. Chicago: Adept Press, 2003.
+
 Ellis, Richard J. *To the Flag: The Unlikely History of the Pledge of Allegiance*. Lawrence: University Press of Kansas, 2005.
 
 European Data Protection Board. *Guidelines 03/2022 on Deceptive Design Patterns in Social Media Platform Interfaces: How to Recognise and Avoid Them*. Version 2.0. Brussels: European Data Protection Board, February 14, 2023.
 
 Fairfield, Joshua A. T. "Anti-social Contracts: The Contractual Governance of Virtual Worlds." *McGill Law Journal* 53, no. 3 (2008): 427–75.
+
+Fair Play MN. *Boundaries Conversation Guidelines*. Brochure. Minneapolis: Fair Play MN, November 14, 2016. https://fairplaymn.wordpress.com/wp-content/uploads/2016/11/boundries-conversation-guidelines-brochure.pdf.
 
 Federal Trade Commission. *Bringing Dark Patterns to Light*. Staff report. Washington, DC: Federal Trade Commission, September 2022.
 
@@ -51,6 +55,8 @@ Robert's Rules Association. "Official Interpretations." Official Robert's Rules 
 Searle, John R. *Speech Acts: An Essay in the Philosophy of Language*. Cambridge: Cambridge University Press, 1969.
 
 Seeds for Change. *A Consensus Handbook: Co-operative Decision-Making for Activists, Co-ops and Communities*. Lancaster: Seeds for Change Lancaster Co-operative, 2013.
+
+Shaw, Kienna, and Lauren Bryant-Monk, curators. *TTRPG Safety Toolkit*. Version 2.5. First released 2019. Accessed September 19, 2026. https://ttrpgsafetytoolkit.com/.
 
 Singh, Nivedita, Seyoung Jin, and Hyoungshick Kim. "When the Abyss Looks Back: Unveiling Evolving Dark Patterns in Cookie Consent Banners." arXiv, 2026. arXiv:2603.21515.
 
