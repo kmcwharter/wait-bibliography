@@ -75,7 +75,3 @@ Zuckerman, Ethan, and Chand Rajendra-Nicolucci. "From Community Governance to Cu
 ## Credits
 
 The technical infrastructure of W.A.I.T. was co-developed with Claude Opus 5 and Claude Fable 5.1, large language models made by Anthropic. Kristin McWharter directed and reviewed this work and is responsible for its contents.
-
-## Special thanks
-
-Thank you to the many playtesters who gave input and helped shape various iterations of this work.
