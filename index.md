@@ -1,0 +1,61 @@
+# W.A.I.T. Bibliography
+
+Chicago style. Last updated September 15, 2026.
+
+Austin, J. L. *How to Do Things with Words*. Edited by J. O. Urmson. Oxford: Clarendon Press, 1962.
+
+Bion, W. R. *Experiences in Groups and Other Papers*. London: Tavistock Publications, 1961.
+
+Brignull, Harry. *Deceptive Patterns*. Accessed September 15, 2026. https://deceptive.design/.
+
+Chaplin, Ralph. "Solidarity Forever." *Solidarity* (Cleveland), January 9, 1915. Sung to the tune of "John Brown's Body."
+
+CommunityRule. "Guides." Accessed September 15, 2026. https://communityrule.info/guides/.
+
+Ellis, Richard J. *To the Flag: The Unlikely History of the Pledge of Allegiance*. Lawrence: University Press of Kansas, 2005.
+
+European Data Protection Board. *Guidelines 03/2022 on Deceptive Design Patterns in Social Media Platform Interfaces: How to Recognise and Avoid Them*. Version 2.0. Brussels: European Data Protection Board, February 14, 2023.
+
+Fairfield, Joshua A. T. "Anti-social Contracts: The Contractual Governance of Virtual Worlds." *McGill Law Journal* 53, no. 3 (2008): 427–75.
+
+Federal Trade Commission. *Bringing Dark Patterns to Light*. Staff report. Washington, DC: Federal Trade Commission, September 2022.
+
+Gillespie, Tarleton. *Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media*. New Haven, CT: Yale University Press, 2018.
+
+Graßl, Paul, Hanna Schraffenberger, Frederik Zuiderveen Borgesius, and Moniek Buijzen. "Dark and Bright Patterns in Cookie Consent Requests." *Journal of Digital Social Research* 3, no. 1 (2021): 1–38. https://doi.org/10.33621/jdsr.v3i1.54.
+
+Group Works. "The Group Works Card Deck." Group Pattern Language Project. Accessed September 15, 2026. https://groupworksdeck.org/deck.
+
+Hansen, Espen Egil. "Dear Mark. I Am Writing This to Inform You That I Shall Not Comply with Your Requirement to Remove This Picture." *Aftenposten*, September 8, 2016. https://www.aftenposten.no/meninger/kommentar/i/G892Q/.
+
+Kiene, Charles, Sohyeon Hwang, Nathan TeBlunthuis, Carl Colglazier, Aaron Shaw, and Benjamin Mako Hill. "The Relational Origins of Rules in Online Communities." *Proceedings of the ACM on Human-Computer Interaction* 10, no. CSCW6 (October 2026): article CSCW167. https://doi.org/10.1145/3817015.
+
+Kitkowska, Agnieszka, Yefim Shulman, Leonardo A. Martucci, and Erik Wästlund. "Psychological Effects and Their Role in Online Privacy Interactions: A Review." *IEEE Access* 8 (2020): 21236–60. https://doi.org/10.1109/ACCESS.2020.2969562.
+
+Lerman, Liz, and John Borstel. *Liz Lerman's Critical Response Process: A Method for Getting Useful Feedback on Anything You Make, from Dance to Dessert*. Takoma Park, MD: Dance Exchange, 2003.
+
+Metagov. Accessed September 15, 2026. https://metagov.org/.
+
+Nouwens, Midas, Ilaria Liccardi, Michael Veale, David Karger, and Lalana Kagal. "Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstrating Their Influence." In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*, 1–13. New York: ACM, 2020. https://doi.org/10.1145/3313831.3376321.
+
+Ostrom, Elinor. *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge: Cambridge University Press, 1990.
+
+Papenmeier, Frank, Josephine Halama, and Carl Reichert. "Accepting Cookies: Nudging, Deceptive Patterns and Personal Preference." *Computers in Human Behavior* 168 (2025): 108641. https://doi.org/10.1016/j.chb.2025.108641.
+
+PolicyKit. Accessed September 15, 2026. https://policykit.org/.
+
+Quakers in Britain. "Quaker Processes." Accessed September 15, 2026. https://www.quaker.org.uk/communities/quaker-processes.
+
+Robert's Rules Association. "Official Interpretations." Official Robert's Rules of Order Website. Accessed September 15, 2026. https://robertsrules.com/official-interpretations/.
+
+Searle, John R. *Speech Acts: An Essay in the Philosophy of Language*. Cambridge: Cambridge University Press, 1969.
+
+Seeds for Change. *A Consensus Handbook: Co-operative Decision-Making for Activists, Co-ops and Communities*. Lancaster: Seeds for Change Lancaster Co-operative, 2013.
+
+Singh, Nivedita, Seyoung Jin, and Hyoungshick Kim. "When the Abyss Looks Back: Unveiling Evolving Dark Patterns in Cookie Consent Banners." arXiv, 2026. arXiv:2603.21515.
+
+Weber, Rolf H., and Romana Weber. "Social Contract for the Internet Community? Historical and Philosophical Theories as Basis for the Inclusion of Civil Society in Internet Governance?" *SCRIPTed* 6, no. 1 (2009). https://doi.org/10.2966/scrip.060109.90.
+
+Wolters, Benedikt. "Introducing Precursor: Detecting Agentic Behavior with Continuous Client-Side Signals." *The Cloudflare Blog*, July 13, 2026. https://blog.cloudflare.com/introducing-precursor/.
+
+Zuckerman, Ethan, and Chand Rajendra-Nicolucci. "From Community Governance to Customer Service and Back Again: Re-Examining Pre-Web Models of Online Governance to Address Platforms' Crisis of Legitimacy." *Social Media + Society* 9, no. 3 (2023). https://doi.org/10.1177/20563051231196864.
