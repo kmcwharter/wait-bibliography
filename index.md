@@ -40,6 +40,8 @@ Kitkowska, Agnieszka, Yefim Shulman, Leonardo A. Martucci, and Erik Wästlund. "
 
 Lerman, Liz, and John Borstel. *Liz Lerman's Critical Response Process: A Method for Getting Useful Feedback on Anything You Make, from Dance to Dessert*. Takoma Park, MD: Dance Exchange, 2003.
 
+Lunenfeld, Peter. *The Secret War between Downloading and Uploading: Tales of the Computer as Culture Machine*. Cambridge, MA: MIT Press, 2011.
+
 Metagov. Accessed September 15, 2026. https://metagov.org/.
 
 Nouwens, Midas, Ilaria Liccardi, Michael Veale, David Karger, and Lalana Kagal. "Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstrating Their Influence." In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*, 1–13. New York: ACM, 2020. https://doi.org/10.1145/3313831.3376321.
