@@ -4,6 +4,8 @@ Chicago style. Last updated September 19, 2026.
 
 Austin, J. L. *How to Do Things with Words*. Edited by J. O. Urmson. Oxford: Clarendon Press, 1962.
 
+Berman, Francine. *Better Tech: Putting People First in Cyberspace*. Cambridge, MA: MIT Press, 2026.
+
 Bion, W. R. *Experiences in Groups and Other Papers*. London: Tavistock Publications, 1961.
 
 Brignull, Harry. *Deceptive Patterns*. Accessed September 15, 2026. https://deceptive.design/.
