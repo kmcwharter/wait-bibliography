@@ -71,3 +71,13 @@ Weber, Rolf H., and Romana Weber. "Social Contract for the Internet Community? H
 Wolters, Benedikt. "Introducing Precursor: Detecting Agentic Behavior with Continuous Client-Side Signals." *The Cloudflare Blog*, July 13, 2026. https://blog.cloudflare.com/introducing-precursor/.
 
 Zuckerman, Ethan, and Chand Rajendra-Nicolucci. "From Community Governance to Customer Service and Back Again: Re-Examining Pre-Web Models of Online Governance to Address Platforms' Crisis of Legitimacy." *Social Media + Society* 9, no. 3 (2023). https://doi.org/10.1177/20563051231196864.
+
+## Credits
+
+The technical infrastructure of W.A.I.T. (the room server, the software on the phones and on the facilitator's console, and the code for each page) was developed with Claude Opus 5 and Claude Fable 5.1, large language models made by Anthropic, used through Claude Code in September 2026. Claude also helped find and format sources for this bibliography. Kristin McWharter directed and reviewed this work and is responsible for it.
+
+## Special thanks
+
+Thank you to the playtesters: [names to come].
+
+Thank you to: [supporters to come].
