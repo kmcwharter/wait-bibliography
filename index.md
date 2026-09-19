@@ -12,7 +12,7 @@ Chaplin, Ralph. "Solidarity Forever." *Solidarity* (Cleveland), January 9, 1915.
 
 CommunityRule. "Guides." Accessed September 15, 2026. https://communityrule.info/guides/.
 
-Cover illustration (tilted orange squares on black). In W. R. Bion, *Experiences in Groups and Other Papers*, paperback ed. London: Tavistock Publications, n.d. [1960s]. Designer not credited. Reproduced on the cover of the Taylor & Francis e-Library edition (London: Brunner-Routledge, 2004).
+Cover illustration (tilted orange squares on black). In W. R. Bion, *Experiences in Groups and Other Papers*. Paperback ed. London: Routledge, 1992. Designer not credited.
 
 Edwards, Ron. *Sex & Sorcery*. Supplement 3 for *Sorcerer*. Chicago: Adept Press, 2003.
 
