@@ -30,11 +30,15 @@ Federal Trade Commission. _Bringing Dark Patterns to Light_. Staff report. Washi
 
 Gillespie, Tarleton. _Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media_. New Haven, CT: Yale University Press, 2018.
 
+Google LLC. "Google Terms of Service." Effective July 30, 2026. https://policies.google.com/terms.
+
 Graßl, Paul, Hanna Schraffenberger, Frederik Zuiderveen Borgesius, and Moniek Buijzen. "Dark and Bright Patterns in Cookie Consent Requests." _Journal of Digital Social Research_ 3, no. 1 (2021): 1–38. https://doi.org/10.33621/jdsr.v3i1.54.
 
 Group Works. "The Group Works Card Deck." Group Pattern Language Project. Accessed September 15, 2026. https://groupworksdeck.org/deck.
 
 Hansen, Espen Egil. "Dear Mark. I Am Writing This to Inform You That I Shall Not Comply with Your Requirement to Remove This Picture." _Aftenposten_, September 8, 2016. https://www.aftenposten.no/meninger/kommentar/i/G892Q/.
+
+Instagram. "Terms of Use." Meta Platforms. Accessed September 19, 2026. https://help.instagram.com/581066165581870.
 
 Kiene, Charles, Sohyeon Hwang, Nathan TeBlunthuis, Carl Colglazier, Aaron Shaw, and Benjamin Mako Hill. "The Relational Origins of Rules in Online Communities." _Proceedings of the ACM on Human-Computer Interaction_ 10, no. CSCW6 (October 2026): article CSCW167. https://doi.org/10.1145/3817015.
 
@@ -65,6 +69,10 @@ Seeds for Change. _A Consensus Handbook: Co-operative Decision-Making for Activi
 Shaw, Kienna, and Lauren Bryant-Monk, curators. _TTRPG Safety Toolkit_. Version 2.5. First released 2019. Accessed September 19, 2026. https://ttrpgsafetytoolkit.com/.
 
 Singh, Nivedita, Seyoung Jin, and Hyoungshick Kim. "When the Abyss Looks Back: Unveiling Evolving Dark Patterns in Cookie Consent Banners." arXiv, 2026. arXiv:2603.21515.
+
+TikTok. "Terms of Service." United States. Last updated July 15, 2026. https://www.tiktok.com/legal/page/us/terms-of-service/en.
+
+Tinder. "Terms of Use." Effective March 5, 2026. https://policies.tinder.com/terms/intl/en.
 
 Weber, Rolf H., and Romana Weber. "Social Contract for the Internet Community? Historical and Philosophical Theories as Basis for the Inclusion of Civil Society in Internet Governance?" _SCRIPTed_ 6, no. 1 (2009). https://doi.org/10.2966/scrip.060109.90.
 
