@@ -8,6 +8,8 @@ Berman, Francine. _Better Tech: Putting People First in Cyberspace_. Cambridge, 
 
 Bion, W. R. _Experiences in Groups and Other Papers_. London: Tavistock Publications, 1961.
 
+book2look. "Privacy Policy." Book2look International GmbH. Accessed September 21, 2026. https://www.book2look.com/PrivacyPolicy.
+
 Brignull, Harry. _Deceptive Patterns_. Accessed September 15, 2026. https://deceptive.design/.
 
 Chaplin, Ralph. "Solidarity Forever." _Solidarity_ (Cleveland), January 9, 1915. Sung to the tune of "John Brown's Body."
@@ -33,6 +35,8 @@ Gillespie, Tarleton. _Custodians of the Internet: Platforms, Content Moderation,
 Google LLC. "Google Terms of Service." Effective July 30, 2026. https://policies.google.com/terms.
 
 Graßl, Paul, Hanna Schraffenberger, Frederik Zuiderveen Borgesius, and Moniek Buijzen. "Dark and Bright Patterns in Cookie Consent Requests." _Journal of Digital Social Research_ 3, no. 1 (2021): 1–38. https://doi.org/10.33621/jdsr.v3i1.54.
+
+Grossman, Wendy. _net.wars_. New York: New York University Press, 1998.
 
 Group Works. "The Group Works Card Deck." Group Pattern Language Project. Accessed September 15, 2026. https://groupworksdeck.org/deck.
 
