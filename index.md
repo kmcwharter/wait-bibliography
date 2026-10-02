@@ -1,12 +1,20 @@
 # W.A.I.T. Bibliography
 
-Chicago style. Last updated September 19, 2026.
+Chicago style. Last updated October 1, 2026.
+
+Ahh GPT (@ahh.gpt). "15/100." Instagram video, August 2, 2026. https://www.instagram.com/reel/Dbj6mf-Rscq/.
+
+Anderson, Chris (@superstarangel123). "everyone loves prue 🙄." Instagram video, August 30, 2026. https://www.instagram.com/reel/DcrJbqvJN_d/.
 
 Austin, J. L. _How to Do Things with Words_. Edited by J. O. Urmson. Oxford: Clarendon Press, 1962.
+
+Bacarro, Jim (@jimbacarro). "Hearts on our sleeves at @puddyrockstudio." Instagram video, July 6, 2025. https://www.instagram.com/reel/DLw4XHiRbX-/.
 
 Berman, Francine. _Better Tech: Putting People First in Cyberspace_. Cambridge, MA: MIT Press, 2026.
 
 Bion, W. R. _Experiences in Groups and Other Papers_. London: Tavistock Publications, 1961.
+
+Boda (@bodagamingvideos). "VR Boxing with Power Drills. What I see and what my opponent sees. Featuring a new POV! 🥊 #vr #boxing #vrboxing #funny #gaming." Instagram video, September 6, 2026. https://www.instagram.com/reel/Dc9x50QicRH/.
 
 book2look. "Privacy Policy." Book2look International GmbH. Accessed September 21, 2026. https://www.book2look.com/PrivacyPolicy.
 
@@ -14,7 +22,11 @@ Brignull, Harry. _Deceptive Patterns_. Accessed September 15, 2026. https://dece
 
 Chaplin, Ralph. "Solidarity Forever." _Solidarity_ (Cleveland), January 9, 1915. Sung to the tune of "John Brown's Body."
 
+Cody & Ralphie (@joyfulwheeks). "Drink water, pretty girl 💦." Instagram photo, June 30, 2026. https://www.instagram.com/p/DaNweAdvF8Q/.
+
 CommunityRule. "Guides." Accessed September 15, 2026. https://communityrule.info/guides/.
+
+Conti, Nina (@theninaconti). "This show is going to Edinburgh for one week only! Human ventriloquism." Instagram video, July 6, 2025. https://www.instagram.com/reel/DLxnDdPMKwW/.
 
 Cover illustration (tilted orange squares on black). In W. R. Bion, _Experiences in Groups and Other Papers_. London: Tavistock Publications, 1961. Paperback reprint, London: Routledge, n.d. Designer not credited.
 
@@ -42,17 +54,31 @@ Group Works. "The Group Works Card Deck." Group Pattern Language Project. Access
 
 Hansen, Espen Egil. "Dear Mark. I Am Writing This to Inform You That I Shall Not Comply with Your Requirement to Remove This Picture." _Aftenposten_, September 8, 2016. https://www.aftenposten.no/meninger/kommentar/i/G892Q/.
 
+Honey the Chi (@honeyythechi). "Stay hydrated cutie 😗." Instagram photo, July 15, 2026. https://www.instagram.com/p/Da0uoygPTG3/.
+
 Instagram. "Terms of Use." Meta Platforms. Accessed September 19, 2026. https://help.instagram.com/581066165581870.
+
+Isha YA (@isha_phd). "Not being vocal or holding people accountable often stems from a desire to maintain peace, but this can lead to a false sense of harmony." Instagram video, August 30, 2024. https://www.instagram.com/reel/C_UFyKSOs9N/.
+
+Jamin, Fyn (@fynjamin). "Breath of Life / Kiss of Death." Instagram video, August 9, 2025. https://www.instagram.com/reel/DNI81pDsUeU/.
+
+Khail (@khailanonymous). "Birdly VR." Instagram video, October 26, 2025. https://www.instagram.com/reel/DQSnvRbEgVW/.
 
 Kiene, Charles, Sohyeon Hwang, Nathan TeBlunthuis, Carl Colglazier, Aaron Shaw, and Benjamin Mako Hill. "The Relational Origins of Rules in Online Communities." _Proceedings of the ACM on Human-Computer Interaction_ 10, no. CSCW6 (October 2026): article CSCW167. https://doi.org/10.1145/3817015.
 
 Kitkowska, Agnieszka, Yefim Shulman, Leonardo A. Martucci, and Erik Wästlund. "Psychological Effects and Their Role in Online Privacy Interactions: A Review." _IEEE Access_ 8 (2020): 21236–60. https://doi.org/10.1109/ACCESS.2020.2969562.
 
+Kuhlenschmidt, Grace (@gkuhlenschmidt). "it was a pleasure to sit down and chat with Jay about my favorite relationship." Instagram video, August 25, 2026. https://www.instagram.com/reel/DceA_dgOnz6/.
+
 Lerman, Liz, and John Borstel. _Liz Lerman's Critical Response Process: A Method for Getting Useful Feedback on Anything You Make, from Dance to Dessert_. Takoma Park, MD: Dance Exchange, 2003.
+
+Levin, Andrew Michael (@andrewmichaellevin). "Sleep coach 2 #comedyreels #comedyvideo #zoom #sleep." Instagram video, August 30, 2026. https://www.instagram.com/reel/DcrO2tjP77E/.
 
 Lunenfeld, Peter. _The Secret War between Downloading and Uploading: Tales of the Computer as Culture Machine_. Cambridge, MA: MIT Press, 2011.
 
 Metagov. Accessed September 15, 2026. https://metagov.org/.
+
+Mielko, Charlotte (@cmielko). "Installation med robotter der udfører mønstre med glitter 💓." Instagram video, April 30, 2025. https://www.instagram.com/reel/DJEQHSZshYc/.
 
 Nouwens, Midas, Ilaria Liccardi, Michael Veale, David Karger, and Lalana Kagal. "Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstrating Their Influence." In _Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems_, 1–13. New York: ACM, 2020. https://doi.org/10.1145/3313831.3376321.
 
@@ -64,6 +90,8 @@ PolicyKit. Accessed September 15, 2026. https://policykit.org/.
 
 Quakers in Britain. "Quaker Processes." Accessed September 15, 2026. https://www.quaker.org.uk/communities/quaker-processes.
 
+Raven, Áme Rey (@amereyraven). "David Sylvester was a British art critic and historian, best known for his series of recorded interviews with Francis Bacon, published as 'The Brutality of Fact'." Instagram video, August 8, 2026. https://www.instagram.com/reel/DcD4ISpAU4J/.
+
 Robert's Rules Association. "Official Interpretations." Official Robert's Rules of Order Website. Accessed September 15, 2026. https://robertsrules.com/official-interpretations/.
 
 Searle, John R. _Speech Acts: An Essay in the Philosophy of Language_. Cambridge: Cambridge University Press, 1969.
@@ -74,9 +102,17 @@ Shaw, Kienna, and Lauren Bryant-Monk, curators. _TTRPG Safety Toolkit_. Version 
 
 Singh, Nivedita, Seyoung Jin, and Hyoungshick Kim. "When the Abyss Looks Back: Unveiling Evolving Dark Patterns in Cookie Consent Banners." arXiv, 2026. arXiv:2603.21515.
 
+@slowmancer. "live @thetinyminotaur." Instagram video, August 21, 2026. https://www.instagram.com/reel/DcUfQzqCBp8/.
+
+St.Gallen Dance Company (@stgallendancecompany). "Promise by @sharoneyaldance will be performed again in China next week, alongside Echos by @javier_r_cobos and @frankfannar." Instagram video, September 15, 2026. https://www.instagram.com/reel/DdUFKdItGhz/.
+
 TikTok. "Terms of Service." United States. Last updated July 15, 2026. https://www.tiktok.com/legal/page/us/terms-of-service/en.
 
 Tinder. "Terms of Use." Effective March 5, 2026. https://policies.tinder.com/terms/intl/en.
+
+Today Years Old (@todayyearsold). "It’s always the details you forgot you even said." Instagram photo, August 20, 2026. https://www.instagram.com/p/DcQNRqiBzt6/.
+
+Walker Art Center (@walkerartcenter). "Best advice ever received? Christine Sun Kim reflects on a formative moment from her time at Bard College, when professor Marina Rosenfeld offered a simple directive…" Instagram video, July 14, 2026. https://www.instagram.com/reel/DayIdTeRDnU/.
 
 Weber, Rolf H., and Romana Weber. "Social Contract for the Internet Community? Historical and Philosophical Theories as Basis for the Inclusion of Civil Society in Internet Governance?" _SCRIPTed_ 6, no. 1 (2009). https://doi.org/10.2966/scrip.060109.90.
 
