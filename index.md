@@ -56,6 +56,8 @@ Meta Platforms. Instagram Live reactions, floating emoji. 2016–present.
 
 PayPal Holdings. PayPal button and wordmark. 1999–present.
 
+Reddit, Inc. Comment thread with up and down votes, net score ordering and "u/" handles. 2005–present. https://www.reddit.com/.
+
 ## Further reading
 
 Ahh GPT (@ahh.gpt). "15/100." Instagram video, August 2, 2026. https://www.instagram.com/reel/Dbj6mf-Rscq/.
