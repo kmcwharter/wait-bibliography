@@ -40,6 +40,8 @@ St.Gallen Dance Company (@stgallendancecompany). "Promise by @sharoneyaldance wi
 
 ## Design references
 
+Apple Inc. Apple Pay button and Apple mark. 2014–present.
+
 Apple Inc. Privacy permission alerts, "“App” Would Like to Access Your …" iOS 6 and later, 2012–present.
 
 Apple Inc. Slide to unlock. iPhone OS 1 to iOS 9, 2007–2016. Drawn after a stock vector of slide-to-unlock pills, Shutterstock image 2696083377.
