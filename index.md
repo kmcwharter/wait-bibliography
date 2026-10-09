@@ -24,7 +24,6 @@ Fair Play MN. _Boundaries Conversation Guidelines_. Brochure. November 14, 2016.
 
 Fyn Jamin (@fynjamin). "Breath of Life / Kiss of Death." Instagram video, August 9, 2025. https://www.instagram.com/reel/DNI81pDsUeU/.
 
-
 Grace Kuhlenschmidt (@gkuhlenschmidt). "it was a pleasure to sit down and chat with Jay about my favorite relationship." Instagram video, August 25, 2026. https://www.instagram.com/reel/DceA_dgOnz6/.
 
 Grossman, Wendy. _net.wars_. New York: New York University Press, 1998.
@@ -38,7 +37,6 @@ Nina Conti (@theninaconti). "This show is going to Edinburgh for one week only! 
 @slowmancer. "live @thetinyminotaur." Instagram video, August 21, 2026. https://www.instagram.com/reel/DcUfQzqCBp8/.
 
 St.Gallen Dance Company (@stgallendancecompany). "Promise by @sharoneyaldance will be performed again in China next week, alongside Echos by @javier_r_cobos and @frankfannar." Instagram video, September 15, 2026. https://www.instagram.com/reel/DdUFKdItGhz/.
-
 
 ## Design references
 
