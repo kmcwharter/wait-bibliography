@@ -46,8 +46,6 @@ Apple Inc. Slide to unlock. iPhone OS 1 to iOS 9, 2007–2016. Drawn after a sto
 
 Apple Inc. Spinning wait cursor, the "beach ball." Mac OS X and macOS, 2001–present.
 
-Early Warning Services. Zelle wordmark. 2017–present.
-
 Google LLC. Google Pay button and "G" mark. 2018–present.
 
 Google LLC. reCAPTCHA v2, the "I'm not a robot" checkbox and image challenges. 2014–present. https://www.google.com/recaptcha/.
