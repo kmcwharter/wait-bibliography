@@ -24,7 +24,6 @@ Fair Play MN. _Boundaries Conversation Guidelines_. Brochure. November 14, 2016.
 
 Fyn Jamin (@fynjamin). "Breath of Life / Kiss of Death." Instagram video, August 9, 2025. https://www.instagram.com/reel/DNI81pDsUeU/.
 
-Google LLC. "Google Terms of Service." Effective July 30, 2026. https://policies.google.com/terms.
 
 Grace Kuhlenschmidt (@gkuhlenschmidt). "it was a pleasure to sit down and chat with Jay about my favorite relationship." Instagram video, August 25, 2026. https://www.instagram.com/reel/DceA_dgOnz6/.
 
@@ -95,6 +94,8 @@ Federal Trade Commission. _Bringing Dark Patterns to Light_. Staff report. Washi
 
 Gillespie, Tarleton. _Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media_. New Haven, CT: Yale University Press, 2018.
 
+Google LLC. "Google Terms of Service." Effective July 30, 2026. https://policies.google.com/terms.
+
 Graßl, Paul, Hanna Schraffenberger, Frederik Zuiderveen Borgesius, and Moniek Buijzen. "Dark and Bright Patterns in Cookie Consent Requests." _Journal of Digital Social Research_ 3, no. 1 (2021): 1–38. https://doi.org/10.33621/jdsr.v3i1.54.
 
 Group Works. "The Group Works Card Deck." Group Pattern Language Project. Accessed September 15, 2026. https://groupworksdeck.org/deck.
@@ -154,7 +155,6 @@ Weber, Rolf H., and Romana Weber. "Social Contract for the Internet Community? H
 Wolters, Benedikt. "Introducing Precursor: Detecting Agentic Behavior with Continuous Client-Side Signals." _The Cloudflare Blog_, July 13, 2026. https://blog.cloudflare.com/introducing-precursor/.
 
 Zuckerman, Ethan, and Chand Rajendra-Nicolucci. "From Community Governance to Customer Service and Back Again: Re-Examining Pre-Web Models of Online Governance to Address Platforms' Crisis of Legitimacy." _Social Media + Society_ 9, no. 3 (2023). https://doi.org/10.1177/20563051231196864.
-
 
 ## Credits
 
